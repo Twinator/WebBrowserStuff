@@ -48,7 +48,7 @@ nav a:hover {
 	background-color: #7C1A00;
 }
 #content {
-	/*add image*/
+	background-image: url(page-bg.gif);
 	border: 1px solid #CCCCCC;
 	margin-left: 180px;
 	padding: 10px;
@@ -71,6 +71,8 @@ h2 {
 }
 h3 {
 	/*add image*/
+	background-image: url(header-star-1.gif);
+	background-repeat: no-repeat;
 	padding-left: 20px;
 }
 blockquote {
