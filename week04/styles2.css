@@ -1,0 +1,35 @@
+body{
+    background-color: burlywood;
+}
+
+header{
+    background-color: blue;
+}
+
+header h1{
+    text-align: center;
+}
+
+header h2{
+    text-align: center;
+}
+
+main{
+    background-color: cadetblue;
+    display: flex;
+}
+
+section{
+    flex: 4;
+    outline-style: none;
+    outline: black;
+    outline-width: 10px;
+    position: fixed;
+}
+
+aside{
+    background-color: chocolate;
+    margin-left: 10;
+    flex: 1;
+    padding: 50%;
+}
